@@ -1,0 +1,3 @@
+grant codeBase "file:d:\Doksi\Varsó\Distributed System\lab\Assigment\CloudAtlas\src\" {
+    permission java.security.AllPermission;
+};
